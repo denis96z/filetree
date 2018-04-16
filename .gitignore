@@ -1,0 +1,17 @@
+.dub
+.idea
+docs.json
+__dummy.html
+docs/
+filetree
+filetree.so
+filetree.dylib
+filetree.dll
+filetree.a
+filetree.lib
+filetree-test-*
+*.exe
+*.o
+*.obj
+*.lst
+*.iml
